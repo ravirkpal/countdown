@@ -1,0 +1,33 @@
+*{
+
+	box-sizing: border-box;
+	
+}
+
+
+body{
+	background-image: url('mount.jpg');
+	width: 100%;
+	background-size: cover;
+	margin: 0;
+	display: flex;
+	background-repeat: no-repeat;
+}
+
+.container{
+	display: flex;
+	margin: auto;
+	color: navy;
+
+
+}
+
+div{
+
+    font-size: 20px;
+	padding: 15px;
+}
+
+p{
+	font-size: 90px;
+}
